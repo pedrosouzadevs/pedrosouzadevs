@@ -2,7 +2,7 @@
 
 ## I'm Pedro Souza
 
-- 🏖️ Based in Rio de Janeiro, Brazil
+- 🏖️ Based in São Paulo, Brazil
 - 💼 Full Stack Developer
 - 🔭 I'm currently looking for job opportunities
 - 🌱 I'm currently learning Ruby, JavaScript and Node
