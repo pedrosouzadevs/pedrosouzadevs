@@ -5,7 +5,7 @@
 - 🏖️ Based in São Paulo, Brazil
 - 💼 Full Stack Developer
 - 🔭 I'm currently looking for job opportunities
-- 🌱 I'm currently learning Ruby, JavaScript and Node
+- 🌱 I'm currently learning React, JavaScript and Ruby
 <br>
 
  <div>
